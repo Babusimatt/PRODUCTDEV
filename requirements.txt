@@ -4,3 +4,4 @@ pandas
 numpy
 faker
 plotly
+gunicorn==22.0.0
